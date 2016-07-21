@@ -1,0 +1,11 @@
+Đây là link mà em đã tìm được và theo như em hiểu:
+https://community.oracle.com/thread/2059648?start=0&tstart=0
+
+http://www.javaranch.com/journal/200406/ScjpTipLine-BitShifting.html
+
+Link 1 nói về:
+- Khi Shift right n bit cua 1 số đồng nghĩa với việc ta lấy số đó chia cho 2 cho n lần.
+- Khi Shift left 1 số đồng nghĩa với việc ta lấy số đó nhân cho 2 nhân cho n lần.
+Link 2: Ở những đoạn cuối có nói đến về:
+- Kiểu dữ liệu int chỉ được shift tốt đa 5 bit.
+- Kiể dữ liệu long chỉ được shift tốt đa 6 bit.
